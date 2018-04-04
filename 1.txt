@@ -1,1 +1,3 @@
 git test first file
+
+line added in branch feature 2
